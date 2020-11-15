@@ -3,7 +3,11 @@ Graph neural network/Graph embedding code.
 * GNN: gcn, grageSAGE
 * GE: node2vec
 
-## GCN
+## GCN  
+<div style="text-align: center;">
+<img alt="" src="https://s3.ax1x.com/2020/11/15/DFYfqe.png" style="display: inline-block;"/>
+</div>
+
 GCN: learn a function of signals/features on a graph &nbsp; ![graph](http://latex.codecogs.com/png.latex?G=\left(V,E\right))  &nbsp; which takes as input:  
 * A feature description &nbsp;  ![x_i](http://latex.codecogs.com/png.latex?x_i) &nbsp; for every node &nbsp; ![i](http://latex.codecogs.com/png.latex?i) &nbsp;; summarized in a N×D feature matrix X (N: number of nodes, D: number of input features)
 * A representative description of the graph structure in matrix form; typically in the form of an adjacency matrix A (or some function thereof)and produces a node-level output Z (an N×F feature matrix, where F is the number of output features per node). 
