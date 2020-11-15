@@ -1,9 +1,14 @@
 ## GNN
-Graph neural network experimental code
+Graph neural network/Graph embedding code.
 
 ## Acknowledgements
-**The original version** of this code base was originally forked from https://github.com/tkipf/gcn/, and we owe many thanks to **Thomas Kipf** for making his code available. 
-Please see the paper for funding details and additional (non-code related) acknowledgements.
+**The original version** of this code base was originally forked from   
 
-Semi-Supervised Classification with Graph Convolutional Networks.
+**Semi-Supervised Classification with Graph Convolutional Networks**  
+https://github.com/tkipf/gcn/ 
 
+**Inductive Representation Learning on Large Graphs**  
+https://github.com/williamleif/graphsage-simple
+
+**node2vec: Scalable Feature Learning for Networks**  
+https://github.com/aditya-grover/node2vec
