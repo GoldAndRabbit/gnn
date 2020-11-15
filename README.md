@@ -1,8 +1,10 @@
 ## GNN
-Graph neural network/Graph embedding code.
+Graph neural network/Graph embedding code.  
+* GNN: gcn, grageSAGE
+* GE: node2vec
 
 ## Acknowledgements
-**The original version** of this code base was originally forked from   
+The original version of this code base was originally forked from   
 
 **Semi-Supervised Classification with Graph Convolutional Networks**  
 https://github.com/tkipf/gcn/ 
